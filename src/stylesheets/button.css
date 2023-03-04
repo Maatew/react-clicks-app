@@ -1,0 +1,24 @@
+button{
+    width: 250px;
+    height: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: white;
+}
+
+.button-click{
+    background-color: blue;   
+}
+
+.button-reset{
+    background-color: red;
+}
